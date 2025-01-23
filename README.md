@@ -1,4 +1,4 @@
-### My name is Emanuel Marques and I am a front-end software developer.
+### My name is Emanuel Marques and I am a fullstack software developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-marques-541617215/)
 
